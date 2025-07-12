@@ -1,6 +1,6 @@
 # Legal Mentions & Terms of Service
 
-**Last updated:** January 2025  
+**Last updated:** July 2025  
 **Effective date:** January 1st, 2025
 
 ---
