@@ -16,7 +16,7 @@
 
 ### Hosting Information
 - **Hosting Provider:** Porkbun
-- **Technical Contact:** contact@valloic.dev
+- **Technical Contact:** support@porkbun.com
 
 ---
 
